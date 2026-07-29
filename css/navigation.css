@@ -201,7 +201,7 @@ UNDERLINE
 
 .nav-links a:hover{
 
-    color:var(primary);
+    color:white;
     background-color: var(--accent);
     padding: 10px;
 
