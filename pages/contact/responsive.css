@@ -8,6 +8,13 @@ gap:60px;
 
 }
 
+.logo span{
+
+    font-size:1rem;
+    max-width: 100%;
+
+}
+
 .hero-contact{
 
 gap:20px;

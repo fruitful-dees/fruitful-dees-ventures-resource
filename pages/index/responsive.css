@@ -12,7 +12,15 @@
 
 .logo span{
 
-    font-size:1.2rem;
+    font-size:1rem;
+    max-width: 100%;
+
+}
+
+
+.menu-toggle{
+
+    display:block;
 
 }
 
@@ -661,11 +669,7 @@ FARM VIDEO
 
 }
 
-.logo span{
 
-    font-size:1rem;
-
-}
 
 
 
